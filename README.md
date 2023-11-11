@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="![snake animation](https://github.com/Bartkooo/Bartkooo/blob/output/github-contribution-grid-snake2.svg)
-" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bartkooo/Bartkooo/output/snake.svg" alt="Snake animation" />
 
 ###
+
