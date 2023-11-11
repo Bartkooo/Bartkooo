@@ -9,12 +9,6 @@
 
 ###
 
-<div align="right">
-  <img height="150" width="200" src="https://raw.githubusercontent.com/jglovier/gifs/gh-pages/hacking/doge-hacking.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="10" />
