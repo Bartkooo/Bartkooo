@@ -10,7 +10,7 @@
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/jglovier/gifs/gh-pages/hacking/doge-hacking.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/jglovier/gifs/gh-pages/hacking/doge-hacking.gif"  />
 </div>
 
 ###
